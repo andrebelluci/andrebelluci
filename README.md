@@ -10,7 +10,7 @@ I'm André Belluci, I'm a QA Software Engineer at iFood, and I've been working i
 
 These are some of the technologies and tools that I work with:
 
-![Cypress](https://img.shields.io/badge/-Cypress-brightgreen?style=flat-square&logo=cypress&logoColor=black)
+![Cypress](https://img.shields.io/badge/press-162332?style=flat-square&logo=cypress)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-9cf?style=flat-square&logo=cplusplus&logoColor=blue)
