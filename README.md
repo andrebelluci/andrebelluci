@@ -2,7 +2,7 @@
 
 I'm André Belluci, I'm a QA Software Engineer at iFood, and I've been working in tech since 2010. I like games and playing with automation on Arduino and nodeMCU.
 
-[![Linkedin: loiane](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebelluci/)](https://www.linkedin.com/in/andrebelluci/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebelluci/)](https://www.linkedin.com/in/andrebelluci/)
 [![Instagram](https://img.shields.io/badge/Instagram--brightgreen?style=social&logo=instagram&link=https://www.instagram.com/andrebelluci)](https://www.instagram.com/andrebelluci)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrebelluci?style=social)](https://twitter.com/andrebelluci)
 
