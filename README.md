@@ -22,4 +22,5 @@ These are some of the technologies and tools that I work with:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-black?style=flat-square&logo=gitlab)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VStudio](https://img.shields.io/badge/-Visual_Studio-9403fc?style=flat-square&logo=visual-studio&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-9cc?style=flat-square&logo=arduino)
