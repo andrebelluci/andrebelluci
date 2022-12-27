@@ -2,9 +2,15 @@
 
 I'm André Belluci, I'm a QA Software Engineer at iFood, and I've been working in tech since 2010. I like games and playing with automation on Arduino and nodeMCU.
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebelluci/)](https://www.linkedin.com/in/andrebelluci/)
-[![Instagram](https://img.shields.io/badge/Instagram--brightgreen?style=social&logo=instagram&link=https://www.instagram.com/andrebelluci)](https://www.instagram.com/andrebelluci)
-[![Twitter Follow](https://img.shields.io/twitter/follow/andrebelluci?style=social)](https://twitter.com/andrebelluci)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrebelluci)](https://github.com/andrebelluci)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8166695/andr%c3%a9-belluci)](https://stackoverflow.com/users/8166695/andr%c3%a9-belluci)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/andrebelluci/)](https://www.linkedin.com/in/andrebelluci/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andrebelluci@gmail.com)](mailto:andrebelluci@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/andrebelluci)](https://t.me/andrebelluci)
+[![Discord](https://img.shields.io/badge/Discord-36393e?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/445665096107294730)](https://discordapp.com/users/445665096107294730)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andrebelluci)](https://instagram.com/andrebelluci)
+[![Strava](https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&link=https://www.strava.com/athletes/7420087)](https://www.strava.com/athletes/7420087)
+[![Twitter Follow](https://img.shields.io/twitter/follow/andrebelluci?style=for-the-badge&logo=twitter&logoColor=blue&color=blue)](https://twitter.com/andrebelluci)
 
 ## ⚡ Technologies
 
