@@ -1,6 +1,16 @@
 ## 😁 Welcome to my profile 
 
-I'm André Belluci, I'm a QA Software Engineer at iFood, and I've been working in tech since 2010. I like games and playing with automation on Arduino and nodeMCU.
+I'm André Belluci and in 1999 my father got a computer as part of his job, when a company he worked for closed its activities. I was 10 years old and I fell in love with that machine.
+
+Since then I have gone through user support, remote support for Linux servers, customer support, and in all of them I was always testing something, a system that wouldn't open, an email service that was having problems, problems that the customer reported.
+
+This last time as support I already filtered the "bugs" and collected evidence to help developers solve problems, until the team grew and it was necessary to test new features, truly starting my journey as QA.
+
+Today, in addition to manual testing, I already have experience with automation, testing fundamentals, DevOps, CI/CD, containerization, GIT, server migrations, and I even saw a project being built from scratch.
+
+It is gratifying to see that from support I was able to build an analysis to understand the problems that users faced and create this awareness of always delivering a functional and quality product to the customer.
+
+I like games too and playing with IoT on Arduino and nodeMCU.
 
  <div>
    <a href="https://github.com/andrebelluci">
