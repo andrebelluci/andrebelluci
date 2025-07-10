@@ -1,95 +1,92 @@
-## 😁 Welcome to my profile 
+# André Belluci
 
-I'm André Belluci and in 1999 my father got a computer as part of his job, when a company he worked for closed its activities. I was 10 years old and I fell in love with that machine.
-
-Since then I have gone through user support, remote support for Linux servers, customer support, and in all of them I was always testing something, a system that wouldn't open, an email service that was having problems, problems that the customer reported.
-
-This last time as support I already filtered the "bugs" and collected evidence to help developers solve problems, until the team grew and it was necessary to test new features, truly starting my journey as QA.
-
-Today, in addition to manual testing, I already have experience with automation, testing fundamentals, DevOps, CI/CD, containerization, GIT, server migrations, and I even saw a project being built from scratch.
-
-It is gratifying to see that from support I was able to build an analysis to understand the problems that users faced and create this awareness of always delivering a functional and quality product to the customer.
-
-I like games too and playing with IoT on Arduino and nodeMCU.
-
- <div>
-   <a href="https://github.com/andrebelluci">
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andrebelluci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <br>
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=andrebelluci&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="right">
+  <a href="README.md">🇧🇷 Português</a> | 
+  <a href="README_EN.md">🇺🇸 English</a>
 </div>
- <br>
 
-## ⚡ Technologies
+**QA Engineer | Especialista em Automação de Testes | Desenvolvedor Full Stack**
 
-These are some of the technologies and tools that I work with: 
+> Transformando expertise em qualidade de software em soluções abrangentes de desenvolvimento
 
-### 📖 Learning and upgrading NOW
-<div style="display: inline_block"><br>
-  <img title="C#" align="center" alt="C#" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img title="HTML" align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img title="CSS" align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
-  <img title="Javascript" align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  <br>
- 
-### 🤖 Advanced level
-<div style="display: inline_block"><br>
-  <img title="Cypress" align="center" alt="Cypress" height="30" width="30" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-  <img title="Insomnia" align="center" alt="insomnia" height="30" width="30" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-  <img title="Hyper Bash" align="center" alt="hyperbash" height="30" width="30" src="https://seeklogo.com/images/H/hyper-logo-C3FD37FA76-seeklogo.com.png">        
-</div> 
- <br>
- 
-### 👾 Intermediary level
-<div style="display: inline_block"><br>
-  <img title="Javascript" align="center" alt="Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img title="NodeJs" align="center" alt="NodeJs" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img title="Sql Server" align="center" alt="sqlserver" height="30" width="30" src="https://img.icons8.com/color/600/000000/microsoft-sql-server.png">
- <img title="VS Code" align="center" alt="vscode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-</div>
- <br>
- 
-### 🍼 Basic level
-<div style="display: inline_block"><br>  
-  <img title="C++" align="center" alt="cplusplus" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img title="Azure" align="center" alt="azure" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
- <img title="Git" align="center" alt="git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
- <img title="Github" align="center" alt="github" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
- <img title="GitLab" align="center" alt="gitlab" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
- <img title="VS Studio" align="center" alt="vsstudio" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-</div>
-<br>
+## 👨‍💻 Sobre Mim
 
-### 🕹️ Playtime
-<div style="display: inline_block"><br>  
- <img title="Arduino" align="center" alt="arduino" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+Com mais de 10 anos na área de TI, evolui do suporte técnico para um QA Engineer especializado em automação de testes e processos de qualidade. Minha jornada começou em 1999 quando descobri minha paixão pela tecnologia, e desde então me dedico a garantir a qualidade do software e a satisfação do usuário.
+
+Atualmente expandindo minhas habilidades para desenvolvimento full-stack, combinando minha mentalidade focada em qualidade com práticas modernas de desenvolvimento para construir aplicações robustas e testadas desde o início.
+
+## 🔧 Expertise Técnica
+
+### **Nível Avançado**
+- **Automação de Testes**: Cypress, Karate Framework
+- **Testes de API**: Insomnia, Postman
+- **Ferramentas DevOps**: Pipelines CI/CD, Docker, Git workflows
+- **Banco de Dados**: SQL Server, Otimização de queries
+
+### **Nível Intermediário**
+- **Desenvolvimento Web**: PHP, MySQL, JavaScript, HTML5
+- **Frontend Styling**: Tailwind CSS, CSS3 responsivo
+- **Ferramentas de Desenvolvimento**: VS Code, Git, GitHub/GitLab
+- **Fundamentos de Testes**: Planejamento de testes, Rastreamento de bugs, Coleta de evidências
+
+### **Aprendendo Atualmente**
+- **React Ecosystem**: React, React Native para desenvolvimento web e mobile
+- **Desenvolvimento Full Stack**: C#, .NET para backend robusto
+- **Plataformas Cloud**: Fundamentos Azure para deployment e escalabilidade
+
+### **Projetos Hobby**
+- **Desenvolvimento IoT**: Arduino, NodeMCU
+- **Integração Hardware**: Programação de sensores, projetos de automação
+
+## 📊 Análise do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrebelluci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrebelluci&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-<br>
- 
-![Snake animation](https://github.com/andrebelluci/andrebelluci/blob/output/github-contribution-grid-snake.svg)
- 
-## Contact me 📲
- 
+
+## 💼 Experiência Profissional
+
+**QA Engineer**
+- Projetei e implementei frameworks abrangentes de automação de testes
+- Desenvolvi pipelines CI/CD para processos de testes automatizados
+- Colaborei com equipes de desenvolvimento para estabelecer padrões de qualidade
+- Migrei e otimizei ambientes de teste em múltiplos projetos
+
+**Especialista em Suporte Técnico**
+- Filtrei e documentei bugs com evidências detalhadas para equipes de desenvolvimento
+- Forneci suporte e troubleshooting para servidores Linux
+- Analisei problemas relatados por usuários para melhorar a qualidade do produto
+- Contribuí para melhorias de processo que reduziram o volume de tickets de suporte
+
+## 🎯 Foco Atual
+
+- **Construindo**: Aplicações full-stack com abordagem quality-first
+- **Aprendendo**: Frameworks modernos de desenvolvimento e tecnologias cloud
+- **Explorando**: Integração entre workflows de desenvolvimento e testes
+- **Contribuindo**: Projetos open source relacionados à automação de testes
+
+## 📫 Vamos Conectar
+
 <div>
- <a href = "mailto:andrebelluci@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:andrebelluci@gmail.com" target="_blank"></a>
- <a href="https://instagram.com/andrebelluci" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/andrebelluci" target="_blank"></a>
- <a href="https://discordapp.com/users/445665096107294730" target="_blank"><img src="https://img.shields.io/badge/Discord-36393e?style=for-the-badge&logo=discord&logoColor=white&link=https://discordapp.com/users/445665096107294730" target="_blank"></a>
- <a href="https://t.me/andrebelluci" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/andrebelluci" target="_blank"></a>
- <a href="https://github.com/andrebelluci" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/andrebelluci" target="_blank"></a>
- <a href="https://www.linkedin.com/in/andrebelluci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/andrebelluci" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="mailto:andrebelluci@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://github.com/andrebelluci" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  </a>
+  <a href="https://t.me/andrebelluci" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank">
+  </a>
 </div>
- 
-### Not much to show here 🥲
-<div>
- <a href="https://twitter.com/andrebelluci" target="_blank"><img src="https://img.shields.io/twitter/follow/andrebelluci?style=for-the-badge&logo=twitter&logoColor=blue&color=blue" target="_blank"></a>
- <a href="https://www.youtube.com/andrebelluci" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://stackoverflow.com/users/8166695/andr%c3%a9-belluci" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/8166695/andr%c3%a9-belluci" target="_blank"></a>
- <a href="https://www.strava.com/athletes/7420087" target="_blank"><img src="https://img.shields.io/badge/Strava-FC4C02?style=for-the-badge&logo=strava&logoColor=white&link=https://www.strava.com/athletes/7420087" target="_blank"></a> 
+
+---
+
+![Snake animation](https://github.com/andrebelluci/andrebelluci/blob/output/snake.svg)
+
+<div align="center">
+  <i>Sempre comprometido em entregar software de qualidade que os usuários amam</i>
 </div>
- 
-
-
-
-
